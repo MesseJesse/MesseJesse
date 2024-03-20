@@ -1,14 +1,6 @@
-👋 Hi, I’m @MesseJesse, currently I'm a Finance Systems Analyst 📊
+💻✅ Tech I work with daily ✅▶️ Python (Data - Pandas), SQL, HTML/CSS, PowerBI, Advanced Excel (VBA, Macros), Blue Prism Developer 📂	
 
-👀 Looking for exposure to as many languages and systems as possible 🔓
-
-🏁 Relative beginner looking to progress to advanced level with multiple languages 📈
-
-💻✅ Tech I work with daily ✅▶️ Oracle NetSuite ERP, SAP Concur, Blue Prism Developer, Visual Basic (Macros), SQL 📂	
-
-💻⏰ Tech I'm actively learning ⏰▶️ Python (Web Development, Data), Flask, Git, REST APIs, HTML, CSS 📂
-
-💻🟡 Other (Comfortable, Previously Worked With 🟡▶️ R, STATA, Power BI 📂
+💻🟡 Other 🟡▶️ Oracle NetSuite ERP, SAP Concur, R, STATA, Flask, Git, REST APIs 📂
 
 📫 https://www.linkedin.com/in/jessecoffey/ 📨
 
