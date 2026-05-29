@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Football%20Data%20%26%20Automation%20Lab&fontColor=ffffff&fontSize=26)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:8b5cf6&height=220&section=header&text=%E2%9A%BD%20Football%20Analysis%20and%20Automations%20%E2%9A%BD&fontColor=ffffff&fontSize=30)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MesseJesse&style=for-the-badge&color=2e1065)
 
 # Jesse Coffey
 
@@ -30,6 +32,7 @@ Football-focused data and automation projects, including:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
